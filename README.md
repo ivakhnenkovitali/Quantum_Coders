@@ -6,11 +6,12 @@ _________________________________________________________________
 
  HappeningNow  "происходит сейчас"
 
+![FireShot Capture 273 - Бутстрап - localhost](https://github.com/user-attachments/assets/9965e939-b42b-4d74-a19c-4cfb763aad66)
 
 
 
 
-![Uploading FireShot Capture 273 - Бутстрап - localhost.png…]()
+
 
 
 
