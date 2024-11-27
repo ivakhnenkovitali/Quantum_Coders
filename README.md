@@ -32,8 +32,105 @@ ________________________________________________________________________________
 
 __________________________________________________________________
 
- текст
+English Translation
+App Name: HappeningNow — Mobile Event Management Platform
+
+Buttons: Download for Android | for iPhone | Technical Support
+
+App Description:
+HappeningNow is an innovative app designed for easy event management. With its simple and intuitive interface, you can:
+
+Easily add events and manage schedules.
+Organize voice and text chats for participants.
+Create diagrams, graphs, and maps for data visualization.
+View news and updates for staff.
+Add tasks, events, notes, and use the calendar.
+App Features:
+
+Home Page: Simple access to core functions — user registration and authentication, profile setup, viewing upcoming events.
+
+Voice and Text Chats: The app allows easy connection to voice chats, participation in text conversations, and real-time sharing of ideas and information.
+
+Diagrams, Graphs, and Maps: Tools for creating visual materials, ideal for presentations and data analysis.
+
+Calendar and Tasks: An easy way to plan events, add important dates, and manage tasks.
+
+Additional Options (by client request):
+
+Kitchen: Special features for organizing catering services at events, including integration with menus and food orders. (Catering)
+
+Video Overview of the App:
+A short video demonstrating the interface and key features of the app for users.
+
+Gallery:
+Photos and examples of successful events organized using the app.
+
+Company Values:
+Our mission is to make events convenient, efficient, and engaging for all participants.
+
+Contact Information:
+Get in Touch: Contact form for sending messages.
+Phone number, email for contact.
+
+Footer:
+Company logo and social media links.
+Privacy Policy and Terms of Use.
+
+This proposal outlines the main page of the app. It includes all key features and functionalities, beautifully organized and structured for user convenience.
 ___________________________________________________________________
+
+_____________________________________________________________________
+
+German Translation
+App Name: HappeningNow — Mobile Eventmanagement-Plattform
+
+Schaltflächen: Download für Android | für iPhone | Technischer Support
+
+App-Beschreibung:
+HappeningNow ist eine innovative App für eine einfache Eventverwaltung. Mit ihrer einfachen und benutzerfreundlichen Oberfläche können Sie:
+
+Veranstaltungen einfach hinzufügen und Zeitpläne verwalten.
+Sprach- und Text-Chats für Teilnehmer organisieren.
+Diagramme, Grafiken und Karten zur Datenvisualisierung erstellen.
+Neuigkeiten und Updates für das Personal anzeigen.
+Aufgaben, Veranstaltungen, Notizen hinzufügen und den Kalender nutzen.
+App-Funktionen:
+
+Startseite: Einfacher Zugang zu den Hauptfunktionen — Benutzerregistrierung und Authentifizierung, Profil-Einrichtung, Anzeige bevorstehender Veranstaltungen.
+
+Sprach- und Text-Chats: Die App ermöglicht eine einfache Verbindung zu Sprach-Chats, die Teilnahme an Text-Konversationen und das Teilen von Ideen und Informationen in Echtzeit.
+
+Diagramme, Grafiken und Karten: Tools zum Erstellen visueller Materialien, ideal für Präsentationen und Datenanalyse.
+
+Kalender und Aufgaben: Eine einfache Möglichkeit, Veranstaltungen zu planen, wichtige Daten hinzuzufügen und Aufgaben zu verwalten.
+
+Zusätzliche Optionen (auf Kundenwunsch):
+
+Küche: Besondere Funktionen zur Organisation von Catering-Services bei Veranstaltungen, einschließlich Integration von Menüs und Essensbestellungen. (Catering)
+
+Videoübersicht der App:
+Ein kurzes Video, das die Benutzeroberfläche und die wichtigsten Funktionen der App zeigt.
+
+Galerie:
+Fotos und Beispiele erfolgreicher Veranstaltungen, die mit der App organisiert wurden.
+
+Unternehmenswerte:
+Unsere Mission ist es, Veranstaltungen für alle Teilnehmer bequem, effizient und ansprechend zu gestalten.
+
+Kontaktinformation:
+Kontaktieren Sie uns: Kontaktformular für Nachrichten.
+Telefonnummer, E-Mail für Kontakt.
+
+Fußzeile:
+Firmenlogo und Links zu sozialen Netzwerken.
+Datenschutzrichtlinie und Nutzungsbedingungen.
+
+Dieser Vorschlag beschreibt die Hauptseite der App. Sie umfasst alle wesentlichen Funktionen und Merkmale und ist schön organisiert und strukturiert, um den Benutzern die Bedienung zu erleichtern.
+
+
+_____________________________________________________________________
+
+_______________________________________________________________________
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Код+!)](https://git.io/typing-svg)  и используемые техналогии________
