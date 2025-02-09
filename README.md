@@ -12,8 +12,6 @@ ________________________________________________________________________________
     https://www.ivakhnenkovitali.com/
 
 
-
-
 _________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Quantum+Coders+!)](https://git.io/typing-svg)  
 
